@@ -37,3 +37,5 @@ Welcome to the Reddit Clone project! This project aims to recreate the basic fun
 ## •	Contribution
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull 5request. Make sure to follow the code of conduct (CODE_OF_CONDUCT.md).
 
+## Note
+Please note that the current repository is a rough version due to API usage limits. Specific files have been hidden to prevent direct usage. For access to a fully functional codebase, please reach out to me via email at ishchavada@gmail.com or message me on [LinkedIn](#www.linkedin.com/in/isha-chavada-108a5a257). I would be delighted to provide the complete, operational code. Thank you for your understanding and interest in the project
