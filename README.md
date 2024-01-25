@@ -6,6 +6,7 @@ Welcome to the Reddit Clone project! This project aims to recreate the basic fun
 * [Project Structure](#project-structure)
 * [Technologies Used](#technologies-used)
 * [Contribution](#contribution)
+* [Note](#note)
 
 ## •	Features
 - User authentication and authorization
