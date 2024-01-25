@@ -15,7 +15,7 @@ Welcome to the Reddit Clone project! This project aims to recreate the basic fun
 - Editing user and community profile.
 - Explore different communities
 - Awards and Karmas
-- Moderation tools for admins
+- Moderation tools
 
 ## •	Project Structure
 - `lib/`: Contains the Dart source code for the Flutter application.
@@ -31,7 +31,7 @@ Welcome to the Reddit Clone project! This project aims to recreate the basic fun
 - Riverpod
 (https://pub.dev/packages/riverpod): A state management library that simplifies dependency injection and provides a more declarative approach.
 - Firebase
-(https://firebase.google.com/): A platform developed by Google for creating mobile and web applications.
+(https://firebase.google.com/): Powering authentication and real-time data storage.
 
 
 ## •	Contribution
