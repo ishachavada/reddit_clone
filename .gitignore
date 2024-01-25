@@ -22,7 +22,6 @@ migrate_working_dir/
 # is commented out by default.
 .vs/
 .vscode/
-.metadata/
 
 
 # Flutter/Dart/Pub related
@@ -35,6 +34,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+.metadata
 
 # Symbolication related
 app.*.symbols
