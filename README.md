@@ -8,18 +8,18 @@ Welcome to the Reddit Clone project! This project aims to recreate the basic fun
 * [Contribution](#contribution)
 
 # •	Features
-	- User authentication and authorization
-	- View and create posts
-	- Comment on posts
-	- Upvote and downvote posts and comments
-    - Editing user and community profile.
-	- Explore different communities
-	- Awards and Karmas
-	- Moderation tools for admins
+- User authentication and authorization
+- View and create posts
+- Comment on posts
+- Upvote and downvote posts and comments
+- Editing user and community profile.
+- Explore different communities
+- Awards and Karmas
+- Moderation tools for admins
 
 # •	Project Structure
-	- `lib/`: Contains the Dart source code for the Flutter application.
-	- `assets/`: Includes static assets such as images and fonts.
+- `lib/`: Contains the Dart source code for the Flutter application.
+- `assets/`: Includes static assets such as images and fonts.
 
 
 # •	Technologies Used
