@@ -1,7 +1,7 @@
 # Reddit Clone
 Welcome to the Reddit Clone project! This project aims to recreate the basic functionality and user interface of the popular social platform Reddit using Flutter.
 
-# Table of contents
+### Table of contents
 * [Features](#Features)
 * [Project Structure](#project-structure)
 * [Technologies Used](#technologies-used)
