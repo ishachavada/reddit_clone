@@ -119,6 +119,7 @@ class PostController extends StateNotifier<bool> {
       createdAt: DateTime.now(),
       awards: [],
       description: link,
+      link: link,
     );
 
     final res = await _postRepository.addPost(post);
